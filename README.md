@@ -92,34 +92,10 @@ Lost **20+ kg through consistent workouts** while simultaneously grinding DSA an
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suryanshsugara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+# 📊 GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=suryanshsugara&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsugara&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suryanshsugara&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# ✍️ Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -134,11 +110,4 @@ Lost **20+ kg through consistent workouts** while simultaneously grinding DSA an
 <a href="https://paypal.me/suryanshsinghsugara">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
 </a>
-</p>
-
----
-
-<p align="center">
-<b>Profile Views</b><br><br>
-<img src="https://visitcount.itsvg.in/api?id=suryanshsugara&icon=5&color=12"/>
 </p>
