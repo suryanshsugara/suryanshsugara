@@ -10,22 +10,22 @@ Building strong fundamentals in software engineering through disciplined learnin
 # 💫 About Me
 
 🔭 **Currently Working On**  
-Improving my **Data Structures & Algorithms** mastery while building **backend-focused engineering projects**.
+Strengthening my **Data Structures & Algorithms** while building **backend-focused software engineering projects**.
 
 🤝 **Looking to Collaborate On**  
 Backend or full-stack projects involving **APIs, scalable systems, and real-world problem solving**.
 
-🧠 **Seeking Guidance In**  
-System design, distributed systems, and building **production-grade backend services**.
+🧠 **Looking for Guidance In**  
+System design, distributed systems fundamentals, and writing **production-grade backend services**.
 
 📚 **Currently Learning**  
-Advanced **DSA patterns**, backend architecture, and writing **clean, efficient, scalable code**.
+Advanced **DSA patterns**, backend development concepts, and writing **clean, efficient, scalable code**.
 
 💬 **Ask Me About**  
-DSA preparation strategies, debugging techniques, and maintaining **discipline during interview preparation**.
+DSA preparation strategies, debugging approaches, and building **consistency during software engineering preparation**.
 
 🏋️ **Fun Fact**  
-Lost **20+ kg through consistent training** while simultaneously grinding DSA and building coding skills.
+Lost **20+ kg through consistent workouts** while simultaneously grinding DSA and improving coding skills.
 
 ---
 
@@ -95,11 +95,11 @@ Lost **20+ kg through consistent training** while simultaneously grinding DSA an
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suryanshsugara&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suryanshsugara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=suryanshsugara&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=suryanshsugara&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ Lost **20+ kg through consistent training** while simultaneously grinding DSA an
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suryanshsugara&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suryanshsugara&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -139,5 +139,6 @@ Lost **20+ kg through consistent training** while simultaneously grinding DSA an
 ---
 
 <p align="center">
+<b>Profile Views</b><br><br>
 <img src="https://visitcount.itsvg.in/api?id=suryanshsugara&icon=5&color=12"/>
 </p>
