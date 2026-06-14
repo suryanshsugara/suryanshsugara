@@ -32,10 +32,10 @@ Lost **20+ kg through consistent workouts** while simultaneously grinding DSA an
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/coldmacha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/lifewithsuryansh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/suryanshsinghsugara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/suryanshhsugara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://youtube.com/@EvadeProductions"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtube.com/@SuryanshhSugara"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://pinterest.com/suryanshsugara"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
 </p>
 
