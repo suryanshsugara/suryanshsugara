@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About
 
-CS undergrad at **KIIT, Bhubaneswar** with two **production-deployed systems** — a government-facing PWA serving 15,000+ children across 14 Odisha district hospitals, and an enterprise MVC backend at IFFCO handling 500+ daily concurrent requests. I build full-stack, data-intensive products end-to-end: React frontends → FastAPI / ASP.NET backends → cloud-deployed RL pipelines on GCP via Docker.
+CS undergrad at **KIIT, Bhubaneswar** with two **production-deployed systems** - a government-facing PWA serving 15,000+ children across 14 Odisha district hospitals, and an enterprise MVC backend at IFFCO handling 500+ daily concurrent requests. I build full-stack, data-intensive products end-to-end: React frontends to FastAPI / ASP.NET backends to cloud-deployed RL pipelines on GCP via Docker.
 
 **🏆 Notable Achievements:**
-- **1st Place** — MIXER 2025, IIT Bombay
-- **National Finalist** — Anvil Hackathon, Scaler School of Technology, Bangalore *(selected from 3,500+ participants)*
+- **1st Place** - MIXER 2025, IIT Bombay
+- **National Finalist** - Anvil Hackathon, Scaler School of Technology, Bangalore *(selected from 3,500+ participants)*
 
 ---
 
@@ -91,7 +91,7 @@ CS undergrad at **KIIT, Bhubaneswar** with two **production-deployed systems** �
 <td width="50%">
 
 ### 🏥 [RBSK Field Surveyor](https://github.com/Somyaranjan-Jena/RBSK-Field-Surveyor)
-**Govt. Healthcare Digitization — Odisha RBSK Programme**
+**Govt. Healthcare Digitization - Odisha RBSK Programme**
 
 Production PWA enabling digital child health screening for **15,000+ children** across **14 district hospitals**. Replaced paper-based workflows with real-time digital platform for government stakeholders.
 
@@ -141,15 +141,15 @@ Python-based automated triage system for streamlining issue management workflows
 </tr>
 </table>
 
-> 📌 *See all repositories → [github.com/suryanshsugara?tab=repositories](https://github.com/suryanshsugara?tab=repositories)*
+> 📌 *See all repositories - [github.com/suryanshsugara?tab=repositories](https://github.com/suryanshsugara?tab=repositories)*
 
 ---
 
 ## 💼 Experience
 
-**Software Development Intern** — IFFCO Paradeep, IT Sector *(May – Jun 2026)*
+**Software Development Intern** - IFFCO Paradeep, IT Sector *(May - Jun 2026)*
 - Shipped a production MVC system serving **500+ daily concurrent requests** with full CRUD + auth across MySQL & Oracle 19c
-- Reduced critical lookup latency by **85%** (800ms → 120ms) via normalized schema design & B-tree indexing
+- Reduced critical lookup latency by **85%** (800ms to 120ms) via normalized schema design & B-tree indexing
 - Raised departmental operational efficiency by **22%** against pre-deployment baseline
 
 ---
@@ -157,12 +157,6 @@ Python-based automated triage system for streamlining issue management workflows
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suryanshsugara&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsugara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=suryanshsugara&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" height="170"/>
 
@@ -181,8 +175,4 @@ I'm actively looking for **internship and full-time opportunities** in software 
 
 </div>
 
----
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=suryanshsugara&color=58A6FF&style=flat-square&label=Profile+Views" />
-</div>
