@@ -1,113 +1,189 @@
-<h1 align="center">Hi, I'm Suryansh 👋</h1>
-<h3 align="center">Backend-Focused Developer • Problem Solver • Consistency Driven</h3>
+<div align="center">
 
-<p align="center">
-Building strong fundamentals in software engineering through disciplined learning, real projects, and relentless problem solving.
-</p>
+# Hey, I'm Suryansh Singh Sugara 👋
 
----
+### Software Engineer · Full-Stack Developer · Production Systems Builder
 
-# 💫 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshsinghsugara)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryanshsugara)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshsugara@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suryanshhsugara)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lifewithsuryansh)
 
-🔭 **Currently Working On**  
-Strengthening my **Data Structures & Algorithms** while building **backend-focused software engineering projects**.
-
-🤝 **Looking to Collaborate On**  
-Backend or full-stack projects involving **APIs, scalable systems, and real-world problem solving**.
-
-🧠 **Looking for Guidance In**  
-System design, distributed systems fundamentals, and writing **production-grade backend services**.
-
-📚 **Currently Learning**  
-Advanced **DSA patterns**, backend development concepts, and writing **clean, efficient, scalable code**.
-
-💬 **Ask Me About**  
-DSA preparation strategies, debugging approaches, and building **consistency during software engineering preparation**.
-
-🏋️ **Fun Fact**  
-Lost **20+ kg through consistent workouts** while simultaneously grinding DSA and improving coding skills.
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🧑‍💻 About
 
-<p align="center">
-<a href="https://instagram.com/lifewithsuryansh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/suryanshsinghsugara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/suryanshhsugara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://youtube.com/@SuryanshhSugara"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://pinterest.com/suryanshsugara"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
-</p>
+CS undergrad at **KIIT, Bhubaneswar** with two **production-deployed systems** — a government-facing PWA serving 15,000+ children across 14 Odisha district hospitals, and an enterprise MVC backend at IFFCO handling 500+ daily concurrent requests. I build full-stack, data-intensive products end-to-end: React frontends → FastAPI / ASP.NET backends → cloud-deployed RL pipelines on GCP via Docker.
+
+**🏆 Notable Achievements:**
+- **1st Place** — MIXER 2025, IIT Bombay
+- **National Finalist** — Anvil Hackathon, Scaler School of Technology, Bangalore *(selected from 3,500+ participants)*
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-</p>
-
-### Backend Development
-<p>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-</p>
-
-### Databases
-<p>
-<img src="https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
-### Data & Machine Learning
-<p>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### Tools & Infrastructure
-<p>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white"/>
-</p>
-
-### Creative Tools
-<p>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>ML / RL</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/StableBaselines3-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FinRL-1a1a1a?style=flat-square&logo=python&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Activity
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=suryanshsugara&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 [RBSK Field Surveyor](https://github.com/Somyaranjan-Jena/RBSK-Field-Surveyor)
+**Govt. Healthcare Digitization — Odisha RBSK Programme**
+
+Production PWA enabling digital child health screening for **15,000+ children** across **14 district hospitals**. Replaced paper-based workflows with real-time digital platform for government stakeholders.
+
+`React` `Firebase` `Tailwind CSS` `PWA` `jsPDF`
+
+- 🔹 70% reduction in manual admin overhead
+- 🔹 400+ digital DEIC case sheets/month
+- 🔹 Offline-first with IndexedDB persistence
+
+</td>
+<td width="50%">
+
+### 📈 [FinRL Trading Agent](https://github.com/suryanshsugara/finrl-trading)
+**Reinforcement Learning for Quantitative Trading**
+
+Multi-agent RL model achieving **11.15% simulated returns** across 39 stocks on 5 years of 15-min OHLCV data. Containerized and deployed on GCP.
+
+`Python` `PyTorch` `StableBaselines3` `Docker` `GCP`
+
+- 🔹 30,094 simulated trades, Sharpe 0.48
+- 🔹 Collaborative multi-agent architecture
+- 🔹 Reproducible cloud-deployed backtesting
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔄 [DevSync AI](https://github.com/suryanshsugara/devsync-ai)
+**AI-Powered Developer Collaboration Tool**
+
+Full-stack TypeScript application for intelligent developer workflow synchronization.
+
+`TypeScript` `Next.js`
+
+</td>
+<td width="50%">
+
+### 🏷️ [TriageFlow](https://github.com/suryanshsugara/TriageFlow)
+**Intelligent Issue Triage System**
+
+Python-based automated triage system for streamlining issue management workflows.
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+> 📌 *See all repositories → [github.com/suryanshsugara?tab=repositories](https://github.com/suryanshsugara?tab=repositories)*
 
 ---
 
-# 💰 Support My Work
+## 💼 Experience
 
-<p align="center">
-<a href="https://buymeacoffee.com/suryanshsugara">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
+**Software Development Intern** — IFFCO Paradeep, IT Sector *(May – Jun 2026)*
+- Shipped a production MVC system serving **500+ daily concurrent requests** with full CRUD + auth across MySQL & Oracle 19c
+- Reduced critical lookup latency by **85%** (800ms → 120ms) via normalized schema design & B-tree indexing
+- Raised departmental operational efficiency by **22%** against pre-deployment baseline
 
-<a href="https://paypal.me/suryanshsinghsugara">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-</a>
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suryanshsugara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsugara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsugara&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF" height="170"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **internship and full-time opportunities** in software engineering. If you're building something interesting or want to collaborate, let's talk.
+
+<div align="center">
+
+[![Email Me](https://img.shields.io/badge/suryanshsugara@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshsugara@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshsinghsugara)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=suryanshsugara&color=58A6FF&style=flat-square&label=Profile+Views" />
+</div>
